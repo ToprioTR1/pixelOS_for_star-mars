@@ -1,1 +1,18 @@
-
+{
+    "maintainer": [
+        {
+            "display_name": "AliYaprak",
+            "telegram": "aliYaprk",
+            "github": "ToprioTR1"
+        }
+    ],
+    "model": "Xiaomi 11 Ultra",
+    "codename": "star",
+    "active": true,
+    "version": "fifteen",
+    "release": "",
+    "last_updated": "1 March 2025",
+    "download_link": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cepheus/PixelOS_cepheus-15.0-20250118-0034.zip",
+    "archive": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/cepheus/",
+    "xda": ""
+}
